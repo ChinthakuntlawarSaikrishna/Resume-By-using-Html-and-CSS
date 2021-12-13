@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <style>
+            .line {
+                border: 1px solid black;
+            } 
+            table {
+                width: 70%;
+                Height: 30%,
+                border-collapse: collapse;
+                padding: 10px
+            }
+            td,th {
+                border: 1px solid black;
+                text-align: center;
+                color: black;
+            }
+            </style>
+    </head>
+    <body>
+        <div>
+            <h2><b>CHINTHAKUNTLAWAR SAIKRISHNA </b></h2>
+            <address>
+                LB Nagar,
+                Hyderabad </address>
+                </div>
+                <div class="line">
+                </div>
+                <h2>Career Objective </h2>
+                <p>Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</p>
+                <div>
+                <table>
+                    <tr>
+                        <th>S.no. </th>
+                        <th>Educational Institution </th>
+                        <th>College </th>
+                        <th>Pass out year </th>
+                        <th>Percentage </th>
+                    </tr>
+                    <tr>
+                        <td>1 </td>
+                        <td> BTech (Mechanical) </td>
+                        <td>Vignan Institute of Technoly and Science </td>
+                        <td>2019 </td>
+                        <td>70.44 </td>
+                    </tr>
+                    <tr>
+                            <td>2 </td>
+                            <td> Intermediate(mpc) </td>
+                            <td>Nalanada Junior college </td>
+                            <td>2015 </td>
+                            <td>96.4 </td>
+                        </tr>
+                        <tr>
+                                <td>3 </td>
+                                <td> SSC </td>
+                                <td>CBR Model School </td>
+                                <td>2013 </td>
+                                <td>9.7GPA </td>
+                            </tr>
+                </table>
+            </div>
+            <h2>Techinacal skills </h2>
+            <ol>
+                <li>PGDCA </li>
+                <li>HTML </li>
+                <li>CSS </li>
+                <li>Javascript </li>
+            </ol>
+            <h2>Hobbies </h2>
+            <ol>
+                <li>Reading Books </li>
+                <li>Cooking </li>
+                <li>Travelling </li>
+            </ol>
+            <h2>Strengths </h2>
+                <ol>
+                    <li>Quick Learner </li>
+                    <li>Ability to work in indididual or group </li>
+                </ol>
+        
+                <h2> Personal Details </h2>
+                 <p>Name: Ch Saikrishna</p>
+                 <p>Mother Tongue: Telugu</p>   
+                 <p>Languages Known :English Hindi and Telugu</p>
+                 <h2>Declaration </h2>
+                 <p>I heereby declare that the above information is true to the best of my knowledge</p>
+    </body>
+</html>
